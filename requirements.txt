@@ -1,0 +1,5 @@
+requests
+pandas
+paddlepaddle
+paddlenlp==3.0.0b4
+aistudio-sdk==0.2.6
